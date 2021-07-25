@@ -146,6 +146,7 @@ const SearchData = () => {
           src="https://job-static.hirist.com/V2/static/media/hirist_logo.03e14260.svg"
           alt=""
         />
+        <p>Testing Git hub</p>
         <p>Mobile Applications</p>
         <p>Frontend Developer</p>
         <p>Backend Developer</p>
